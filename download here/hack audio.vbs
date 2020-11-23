@@ -1,0 +1,1 @@
+CreateObject("SAPI.SpVoice").Speak"you have been hacked by shubham"
